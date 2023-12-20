@@ -6,7 +6,7 @@
 
 **Работа выполнена на оценку 8.**
 
-[Программа](https://github.com/qw1zze/Individual-Homework-1/tree/main/Code)
+[Программа](https://github.com/qw1zze/Individual-Homework-4)
 
 файл main содержит основную программа, файл random описывает класс Random для выбора случайных значений, в папке output содержатся файлы вывода программы: в папке test содержатся входные файлы.
 
